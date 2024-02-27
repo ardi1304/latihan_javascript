@@ -1,5 +1,5 @@
 // cara elegan melakukan perulangan pada array for of
-// kodingannya adalah
+// syntaxnya  adalah
 //     for (variable of iterable) {       
 //         statement                      
 //      }                                 
