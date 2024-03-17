@@ -9,6 +9,14 @@ lemparDadu();
 lemparDadu();
 lemparDadu();
 
+function test() {
+    console.log('test...');
+    console.log('1,2,3');
+}
+test();
+test();
+test();
+
 
 //argument dan parameter dalam function
 function salam(nama) { //nama dalam hal ini adalah parameter
