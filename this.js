@@ -1,0 +1,1 @@
+//this adalah keyword sakti
